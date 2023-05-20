@@ -3,8 +3,8 @@
 # Setup
 
 a. Download
-   i. Phone
-      1. nRF Connect Mobile app
+   &nbsp;i. Phone
+      &nbsp;&nbsp;1. nRF Connect Mobile app
    ii. Laptop
       2. Docker Desktop app.
       2. MongoDB Compass.
